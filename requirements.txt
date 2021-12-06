@@ -1,23 +1,23 @@
-APScheduler @ file:///home/fate/.cache/pypoetry/artifacts/a7/b5/3d/6c1f4ce4d6b2abb25515b1121068561b778b2fae6c9c49b6a4246d1123/APScheduler-3.6.3-py2.py3-none-any.whl
-backports.zoneinfo @ file:///home/fate/.cache/pypoetry/artifacts/aa/b4/b4/7a4329bc0b3589a13e82474586b62709ce2f876aef24a34bcc3f685bb0/backports.zoneinfo-0.2.1-cp38-cp38-manylinux1_x86_64.whl
-black @ file:///home/fate/.cache/pypoetry/artifacts/28/85/b6/8780c94136b83b86eb92c216e3b7680b2e7ff41d953cb4315894c12f74/black-21.12b0-py3-none-any.whl
-cachetools @ file:///home/fate/.cache/pypoetry/artifacts/b8/bb/dd/ab39d5344a1eb90a476cc415065f1c5e74daecaf87821e82c925ca6aaa/cachetools-4.2.2-py3-none-any.whl
-certifi @ file:///home/fate/.cache/pypoetry/artifacts/77/74/3e/daf57610ff13227e3b3f50a78487055f6ac94cc9363abd2463be34c5e9/certifi-2021.10.8-py2.py3-none-any.whl
-charset-normalizer @ file:///home/fate/.cache/pypoetry/artifacts/99/22/e5/b5eac4f2acf7661dde8c8696353398c9c351c2ac103e9028675346d57f/charset_normalizer-2.0.9-py3-none-any.whl
-click @ file:///home/fate/.cache/pypoetry/artifacts/3c/f6/a3/2262df8f5a6f3de5bbc78cc13803c60524c8384dce76661fdfe3df975f/click-8.0.3-py3-none-any.whl
-idna @ file:///home/fate/.cache/pypoetry/artifacts/f7/09/c9/8e80952436ff87855ddff4891a35ecf913b2b5dc97911f02a070ff2b1f/idna-3.3-py3-none-any.whl
-mypy-extensions @ file:///home/fate/.cache/pypoetry/artifacts/b6/a0/b0/a5dc9acd6fd12aba308634f21bb7cf0571448f20848797d7ecb327aa12/mypy_extensions-0.4.3-py2.py3-none-any.whl
-pathspec @ file:///home/fate/.cache/pypoetry/artifacts/04/91/14/294ed2ee6c852b0d466bdd15d393127eff4168b35ae81cedf5a03fe348/pathspec-0.9.0-py2.py3-none-any.whl
-platformdirs @ file:///home/fate/.cache/pypoetry/artifacts/c2/ba/64/b6513f98bf6524a0ec2316e6f9326829bf25522e915b9965b0e55b969b/platformdirs-2.4.0-py3-none-any.whl
-python-dotenv @ file:///home/fate/.cache/pypoetry/artifacts/39/c6/39/44401635efa5c70e07ec351be6c1bebaf003e9fe11de23479ef6f6d3f2/python_dotenv-0.19.2-py2.py3-none-any.whl
-python-telegram-bot @ file:///home/fate/.cache/pypoetry/artifacts/4a/e8/b0/cd12c2119920c119aad700895f1e39d07dfa8b14b331905f26ee540750/python_telegram_bot-13.8.1-py3-none-any.whl
-pytz @ file:///home/fate/.cache/pypoetry/artifacts/07/c1/43/6f22a533e7bc5e277f10b4c6033e936ff7bbeb6464e5f27dbfb6c641d7/pytz-2021.3-py2.py3-none-any.whl
-pytz-deprecation-shim @ file:///home/fate/.cache/pypoetry/artifacts/76/16/7b/4d1ca0f1ad2780cff55cac2a295ab01207736e7bf115be1a2a4a692ec6/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl
-requests @ file:///home/fate/.cache/pypoetry/artifacts/97/12/e1/3c2e2b7f315a912e2da1b1465a23c3f14d51a3bd4696e14e0f2796adde/requests-2.26.0-py2.py3-none-any.whl
-six @ file:///home/fate/.cache/pypoetry/artifacts/48/e6/04/8118155ae3ec3a16dd2a213bbf7a7d8a62c596b2e90f73a22c896269f1/six-1.16.0-py2.py3-none-any.whl
-tomli @ file:///home/fate/.cache/pypoetry/artifacts/3b/c8/2c/ed7a5616a47bf1e59f0c44c5c3b25ce372f2186447a22a5e604d61a77e/tomli-1.2.2-py3-none-any.whl
-tornado @ file:///home/fate/.cache/pypoetry/artifacts/ec/fb/c8/e022dee175b03afe90ae806e12ec894741303dfc5a6debe95d80154754/tornado-6.1-cp38-cp38-manylinux2010_x86_64.whl
-typing_extensions @ file:///home/fate/.cache/pypoetry/artifacts/da/25/4f/38edfb1c3dd33665d6fc2c563dfb5debfcd3204ffc6943c80f09f8d54b/typing_extensions-4.0.1-py3-none-any.whl
-tzdata @ file:///home/fate/.cache/pypoetry/artifacts/b9/2e/38/bd9495d3121c1d7fc7052dce916abb35d49bb9ec3297ba418fb0fe8636/tzdata-2021.5-py2.py3-none-any.whl
-tzlocal @ file:///home/fate/.cache/pypoetry/artifacts/4c/9d/23/923fef6f6fac36c2cee52d8c435f0f4101da89f3d80830de0f325f610d/tzlocal-4.1-py3-none-any.whl
-urllib3 @ file:///home/fate/.cache/pypoetry/artifacts/d8/12/e2/1b499db5e41e88fd0f31d0e056a4dc7b53824f63f027fffc1702969c57/urllib3-1.26.7-py2.py3-none-any.whl
+APScheduler 
+backports.zoneinfo 
+black 
+cachetools 
+certifi 
+charset-normalizer 
+click 
+idna 
+mypy-extensions 
+pathspec 
+platformdirs 
+python-dotenv 
+python-telegram-bot 
+pytz 
+pytz-deprecation-shim 
+requests 
+six 
+tomli 
+tornado
+typing_extensions 
+tzdata 
+tzlocal 
+urllib3 
