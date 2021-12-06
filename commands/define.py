@@ -8,7 +8,7 @@ import json
 
 
 def define(update: Update, context: CallbackContext):
-    word = context.args[0]
+    word = update.message.text
     if word:
         definition = define_word(word)
         text = dress_definition((definition[0]))
